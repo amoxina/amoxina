@@ -1,6 +1,6 @@
 ## Oiê! Tudo bem?
 
-Sou a Sabrina, sou estudante de Ciência da Computação na Universidade de São Paulo.
+Sou a Sabrina, sou estudante de Ciência da Computação na Universidade de São Paulo. Participei do Programa de Iniciação Científica e Mestrado (PICME) durante o período 2022-2024 e atualmente sou bolsista pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP).
 <div style="display: inline_block"><br>
   <img align="center" alt="Amoxina-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Amoxina-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
